@@ -32,7 +32,7 @@ This Python script downloads media (images, GIFs, videos) from specified Reddit 
 
 ## Usage
 
-Run the script from your terminal using `python your_script_name.py` followed by the source type, source name, and any desired options.
+Run the script from your terminal using `python karma-farma.py` followed by the source type, source name, and any desired options.
 
 ```bash
 python karma-farma.py <source_type> <source_name> [options]
